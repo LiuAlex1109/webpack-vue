@@ -1,0 +1,9 @@
+body {
+    background: rgb(219, 226, 206);
+    background: url('../images/iu.jpg') no-repeat;
+}
+#app div{
+    width: 200px;
+    margin-top: 50px;
+    transform: rotate(45deg); /* 这个属性会产生前缀 */
+}
